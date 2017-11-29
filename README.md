@@ -71,55 +71,37 @@ As an alternative, you can follow the Java download link and download the JDK an
 
 **Up and Running**
 
-A step by step series of examples that tell you have to get a development env running
+Open Netbeans IDE
 
-Say what the step will be
+Left click on the **File** tab in the tool bar
 
-Give the example
+Hover over the **New Project** and select it
 
-And repeat
+When the menu box appears, click next
 
-until finished
+The second menu box will appear. In the Title box title your project "Sort" and then hit "Finish"
 
-End with an example of getting some data out of the system or using it for a little demo
-Running the tests
+Delete all the content in the source window
 
-Explain how to run the automated tests for this system
-Break down into end to end tests
+Copy and paste the above code into the source window
 
-Explain what these tests test and why
+Save and compile the project using the **Hammer and Broom** icon
 
-Give an example
+Run the project using the **Green Arrow** icon
 
-And coding style tests
 
-Explain what these tests test and why
 
-Give an example
 
-Deployment
 
-Add additional notes about how to deploy this on a live system
-Built With
 
-    Dropwizard - The web framework used
-    Maven - Dependency Management
-    ROME - Used to generate RSS Feeds
+Author
 
-Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-Authors
-
-    Billie Thompson - Initial work - PurpleBooth
+    S.Littlefield
 
 See also the list of contributors who participated in this project.
 License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the YadaYada License - see the LICENSE.md file for details
 Acknowledgments
 
     Hat tip to anyone who's code was used
