@@ -101,4 +101,4 @@ This project is licensed under the YadaYada License - see the LICENSE.md file fo
 
 Acknowledgments
 
-I would like to thank J. Snellen for all his help and guidance.
+I would like to thank J. Snellen for the description for the links to Oracle and Netbeans.
