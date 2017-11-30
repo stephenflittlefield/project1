@@ -2,7 +2,7 @@
 
 ## Bubble Sort
 
-This is a program to help sort random numbers into a list of numbers in numerical order.
+This is a program to help sort random numbers into a list of numbers in numerical order. It uses an algorithm that is based on recursion and is simple yet effective. 
 
 ## How to Begin:
 
@@ -90,12 +90,6 @@ Save and compile the project using the **Hammer and Broom** icon
 Run the project using the **Green Arrow** icon
 
 
-Acknowledgements
-
-I would like to thank J. Snellen
-
-
-
 Author
 
     S.Littlefield
@@ -104,8 +98,7 @@ See also the list of contributors who participated in this project.
 License
 
 This project is licensed under the YadaYada License - see the LICENSE.md file for details
+
 Acknowledgments
 
-    Hat tip to anyone who's code was used
-    Inspiration
-    etc
+I would like to thank J. Snellen for all his help and guidance.
