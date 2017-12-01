@@ -6,29 +6,28 @@ This is a program to help sort random numbers into a list of numbers in numerica
 
 ## How to Begin:
 
-After you have installed Java and Netbeans. Copy the code into a Netbeans project.
+After you have installed Java and Netbeans. Copy the code into a Netbeans project. Do not copy the comments into the code.
 
-package sort;
+    package sort;    (package name)
 
-import java.math.*;
+    import java.math.*;  (needed to run Math.random)
 
-public class Sort {
-
+    public class Sort {      (this is the class for the package)
  
-    public static void main(String[] args) {
+    public static void main(String[] args) {        (the main for the package)
         
-        int[] n = new int[10];
+        int[] n = new int[10];                      (this block gets a random number from 1 to 100)
         for (int i = 0; i<10; i++){
             n[i] = (int)(Math.random()*100)+1;
         }
-        System.out.println("Unsorted list!");
+        System.out.println("Unsorted list!");       (prints out an unsorted list)
         for (int i = 0; i<10; i++){
             System.out.print(n[i] + ", ");
         }    
         System.out.println("\n");
         bubbleSort(n);
         
-        System.out.println("Sorted list!");
+        System.out.println("Sorted list!");         (prints out the sorted list from above)
         for (int i = 0; i<10; i++){
             System.out.print(n[i] + ", ");
         }
@@ -37,7 +36,7 @@ public class Sort {
           
     
     
-    private static void bubbleSort(int[] n){
+    private static void bubbleSort(int[] n){         (sets the varible and for loop for the recursion)
         boolean done = false;
         while (!done){
           done = true;
